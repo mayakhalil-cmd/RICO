@@ -27,7 +27,7 @@ RICO acts as a central hub for real-time multimedia control. It handles:
 
 ## Download
 
-**[→ Download RICO Beta v1.0.0](https://github.com/mayakhalil-cmd/RICO/releases/tag/v1.0.0-beta)**
+**[→ Download RICO Beta v2.2.0](https://github.com/mayakhalil-cmd/RICO/releases)**
 
 Windows 10/11 x64 only.
 
