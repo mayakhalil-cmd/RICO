@@ -37,8 +37,8 @@ Windows 10/11 x64 only.
 
 RICO requires these free runtimes to be installed first:
 
-- **NDI Runtime** — [ndi.video](https://ndi.video) — required for NDI send/receive
-- **teVirtualMIDI** — [tobias-erichsen.de](https://tobias-erichsen.de/software/virtualmidi.html) — RICO will not launch without these! This is a temporary solution for testing only.
+- **NDI Runtime** — [ndi.video](https://downloads.ndi.tv/SDK/NDI_SDK/NDI%206%20Runtime.exe) — required for NDI send/receive
+- **teVirtualMIDI** — [tobias-erichsen.de](https://www.tobias-erichsen.de/software/virtualmidi/virtualmidi-sdk.html) — RICO will not launch without these! This is a temporary solution for testing only.
 
 ---
 
