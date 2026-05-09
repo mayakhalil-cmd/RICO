@@ -62,6 +62,16 @@ RICO requires these free runtimes to be installed first:
 
 ---
 
+## RICO in Action
+
+**Phantom Performer — SVA Thesis Installation**
+[![Phantom Performer](https://img.youtube.com/vi/JMEpWeDxqos/maxresdefault.jpg)](https://www.youtube.com/watch?v=JMEpWeDxqos)
+
+**Live Demo**
+[![RICO Live Demo](https://img.youtube.com/vi/WFSsrMt0q5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=WFSsrMt0q5o)
+
+---
+
 ## Status
 
 RICO is currently in **public beta**. Core features are stable and in active use. Some features are still being refined.
