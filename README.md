@@ -65,9 +65,11 @@ RICO requires these free runtimes to be installed first:
 ## RICO in Action
 
 **Audio-reactive Projection in Tocuhdesigner**
+
 [![Phantom Performer](https://img.youtube.com/vi/JMEpWeDxqos/hqdefault.jpg)](https://www.youtube.com/watch?v=JMEpWeDxqos)
 
 **Live Demo**
+
 [![RICO Live Demo](https://img.youtube.com/vi/WFSsrMt0q5o/hqdefault.jpg)](https://www.youtube.com/watch?v=WFSsrMt0q5o)
 
 ---
