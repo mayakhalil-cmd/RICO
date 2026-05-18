@@ -3,6 +3,7 @@
 > Real-time AV control hub for OSC, MIDI, NDI, Spout, DMX, and more.
 
 RICO is a lightweight Windows application that bridges your creative tools together — no patching, no complicated setup. Plug in your controller, open RICO, and start routing signals between your software in seconds.
+RICO is also the hardware-to-world bridge; it lets artists and developers control AI-generated spatial environments with any physical interface, in real time, with zero setup.
 
 Built for artists, performers, and creative technologists who want to focus on the work, not the wiring.
 
