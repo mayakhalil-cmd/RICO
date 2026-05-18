@@ -74,6 +74,16 @@ RICO requires these free runtimes to be installed first:
 
 [![RICO Live Demo](https://img.youtube.com/vi/WFSsrMt0q5o/hqdefault.jpg)](https://www.youtube.com/watch?v=WFSsrMt0q5o)
 
+
+**RICO as a switcher** 
+
+[![RICO Demo](https://img.youtube.com/vi/pCdKzlmJL9U/hqdefault.jpg)](https://www.youtube.com/watch?v=pCdKzlmJL9U)
+
+**What if we can VJ in After Effects in Real-time with RICO?**
+
+[![RICO Demo](https://img.youtube.com/vi/H7p1swY0vSk/hqdefault.jpg)](https://www.youtube.com/watch?v=H7p1swY0vSk)
+
+
 ---
 
 ## Status
